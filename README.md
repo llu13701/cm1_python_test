@@ -1,8 +1,10 @@
 # cm1_python_test
 For candidates interested in working for cm1
+Please folk this repo. 
 
 <h3> Main Test </h3>
 Please open CM1_DevQuickTest_Question.ipynb for the main tasks. Make a copy of the notebook rather than working on the main one.
+<u>Deliverables: </u> The link for your own colab workbook
 
 <h3>Django Test Instruction</h3>
 
