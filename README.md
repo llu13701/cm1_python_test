@@ -3,7 +3,7 @@ For candidates interested in working for cm1
 
 <h3>Django Test Instruction</h3>
 </br>
-</br>
+s
 Hi there! You are going to make edits on a public Django project. The django project is a super simple version of Reddit. Note that the repo uses terminology that differs from Reddit terminology. You are going to make a clone of the project and finish the following specific tasks:
 
 1. Git clone https://github.com/nikolak/django_reddit
