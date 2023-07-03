@@ -18,3 +18,14 @@ Hi there! You are going to make edits on a public Django project. The django pro
 4. Let's add some additional information: submissions and comments on the user profile.
    <u> Deliverables:</u>: Make a couple of posts after registering yourself and take a screenshot of your profile with the list of comments and submissions.
    ![example image](https://drive.google.com/uc?id=1MqkgpmH0VG-_B-0Eq9Bb0Ylo4Pb0MUOZ)
+
+5. Let's add an "Edit" button on the comment page that allows the right user to edit his own submissions.
+   <u> Deliverables: </u>: Take two screenshots of the new comments page with the functioning "edit" bottom. First screenshot shows the submission and the second screenshot shows the SAME submission (with the same ID) but with edited content.
+
+   Before:
+   ![example image](https://drive.google.com/uc?id=16BUlkbCDKryD6g6dBZ4D5xNszgiKhfxD)
+
+   After:
+   ![example image](https://drive.google.com/uc?id=1VUzEJd9h8o6ppJO6JLR1f_1fEXo3gFb7)
+
+6. Finally, please upload a youtube or loom video going over a live demo with the above tasks.
