@@ -1,6 +1,9 @@
 # cm1_python_test
 For candidates interested in working for cm1
 
+<h3> Main Test </h3>
+Please open CM1_DevQuickTest_Question.ipynb for the main tasks.
+
 <h3>Django Test Instruction</h3>
 
 Hi there! You are going to make edits on a Django project. The Django project is a super simple version of Reddit. Note that the repo uses terminology that differs from Reddit terminology. Clone this repo (https://github.com/nikolak/django_reddit) and complete the following tasks:
