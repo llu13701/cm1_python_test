@@ -7,4 +7,5 @@ Hi there! You are going to make edits on a public Django project. The django pro
 1. Git clone https://github.com/nikolak/django_reddit
 2. Make it work.
    There are a couple bugs in the repo. Depending on your version, you are very likely to occur bugs. We expect you to fix these bugs and make the original code run.
-   
+   <u> Deliverables:</u> Make a post with your full name and the date (Jul 04, 2023) or (MMM DD, YYYY) format.
+   ![example image](https://drive.google.com/uc?id=147DRoB2dsmuXi_ABcEapiw-RpWvJoM0m)
