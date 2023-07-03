@@ -1,13 +1,6 @@
 # cm1_python_test
 For candidates interested in working for cm1
 
-<h3>Tips</h3>
-<ol>
-<li>Please use python>3.8.1 for langchain related test. </li>
-<li>Please feel free to google or use any tools that you can think of to finish these tasks.  </li>
-<li>You don't have to finish all the tasks, do as much as you can.  </li>
-</ol>
-
 <h3>Django Test Instruction</h3>
 
 Hi there! You are going to make edits on a public Django project. The django project is a super simple version of Reddit. Note that the repo uses terminology that differs from Reddit terminology. You are going to make a clone of the project and finish the following specific tasks:
