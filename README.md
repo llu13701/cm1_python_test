@@ -2,10 +2,11 @@
 For candidates interested in working for cm1
 
 <h3>Tips</h3>
-1. Please use python>3.8.1 for langchain related test. 
-2. Please feel free to google or use any tools that you can think of to finish these tasks. 
-3. You don't have to finish all the tasks, do as much as you can. 
-
+<ol>
+<li> 1. Please use python>3.8.1 for langchain related test. </li>
+<li> 2. Please feel free to google or use any tools that you can think of to finish these tasks.  </li>
+<li> 3. You don't have to finish all the tasks, do as much as you can.  </li>
+</ol>
 
 <h3>Django Test Instruction</h3>
 
