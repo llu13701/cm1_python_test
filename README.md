@@ -2,7 +2,7 @@
 For candidates interested in working for cm1
 
 <h3> Main Test </h3>
-Please open CM1_DevQuickTest_Question.ipynb for the main tasks.
+Please open CM1_DevQuickTest_Question.ipynb for the main tasks. Make a copy of the notebook rather than working on the main one.
 
 <h3>Django Test Instruction</h3>
 
