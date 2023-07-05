@@ -33,3 +33,6 @@ Hi there! You are going to make edits on a Django project. The Django project is
    ![example image](https://drive.google.com/uc?id=1VUzEJd9h8o6ppJO6JLR1f_1fEXo3gFb7)
 
 5. Finally, please upload a youtube or loom video going over a live demo with the above tasks.
+
+
+   <h3>Once you finish, please reach out with your repo link. You can also email me at louisa@communityone.io</h3>
