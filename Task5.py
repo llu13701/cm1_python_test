@@ -8,7 +8,7 @@ from langchain import ConversationChain
 from langchain import PromptTemplate
 
 #Initializing my OpenAI key
-os.environ['OPENAI_API_KEY'] = 'KEY' #Edit this to your key
+os.environ['OPENAI_API_KEY'] = 'KEY' #Edit this to your OpenAI key
 
 #Initializing the model that we will use. (text-davinci-003 corressponds to turbo-3.5-gpt)
 llm = OpenAI(model_name = "text-davinci-003")
@@ -53,7 +53,7 @@ async def on_message(message):
 
 #Defining our bot's token
 def run_bot():
-    bot.run('Key') #Edit this to your key
+    bot.run('Key') #Edit this to your discord key
 
 #This lets asyincio to be called when other asyncio event is running in the Jupyter Notebook
 loop = asyncio.get_event_loop()
