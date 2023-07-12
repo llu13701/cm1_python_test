@@ -30,10 +30,10 @@ for date, author_ids in total_author_ids.items():
 percentage_new_author_ids = pd.Series(percentage_new_author_ids)
 
 # Plotting the matlibplot chart
-plt.plot(percentage_new_author_ids.index, percentage_new_author_ids)
+plt.title('Percentage of daily messages sent by new users')
 plt.xlabel('Date')
 plt.ylabel('Percentage_New_Messages')
-plt.title('Percentage of daily messages sent by new users')
+plt.plot(percentage_new_author_ids.index, percentage_new_author_ids)
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
