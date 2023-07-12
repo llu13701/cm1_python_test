@@ -4,7 +4,7 @@ from langchain import ConversationChain
 from langchain import PromptTemplate
 
 #Initializing my OpenAI key
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'Key' #Edit this to your key
 
 #Initializing the model that we will use. (text-davinci-003 corressponds to turbo-3.5-gpt)
 llm = OpenAI(model_name = "text-davinci-003")

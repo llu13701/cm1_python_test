@@ -27,7 +27,7 @@ async def on_message(message):
 
 #Defining our bot's token
 def run_bot():
-    bot.run('MTEyODY5Nzc1ODU5ODA0NTcwNg.G2NaRQ.WqfKosQ64RduEjMJ9n8jtvAlfyk6TupjFhWktw')
+    bot.run('Key') #Edit this to your key
 
 #This lets asyincio to be called when other asyncio event is running in the Jupyter Notebook
 loop = asyncio.get_event_loop()
