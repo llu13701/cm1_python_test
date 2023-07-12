@@ -1,4 +1,7 @@
 # Rajat's instructions
+Download the following libraries:
+
+pip install django discord.py openai langchain
 
 Collab link - https://colab.research.google.com/drive/1tewL3EnNsttzHepHTJ0ozeWElMXwaPb0?usp=sharing
 
