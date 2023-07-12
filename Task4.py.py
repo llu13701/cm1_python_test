@@ -1,10 +1,17 @@
+
 import discord
 from discord.ext import commands
+import nest_asyncio
+import asyncio
+
+#Using nest_asyncio for Jupyter notebook
+nest_asyncio.apply()
 
 #Defining intents as default
 intents = discord.Intents.default()
 intents.message_content = True
 
+#Initializing the bot
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 #Decorator to send messages
@@ -19,4 +26,9 @@ async def on_message(message):
     await message.channel.send(f'Hello {message.author.name}!')
 
 #Defining our bot's token
-bot.run('MTEyODY5Nzc1ODU5ODA0NTcwNg.GhfIcc.4iJHmY_CoLG4IDlD5_NAafT0ee-fvSlYeOBu2Y')
+def run_bot():
+    bot.run('MTEyODY5Nzc1ODU5ODA0NTcwNg.G2NaRQ.WqfKosQ64RduEjMJ9n8jtvAlfyk6TupjFhWktw')
+
+#This lets asyincio to be called when other asyncio event is running in the Jupyter Notebook
+loop = asyncio.get_event_loop()
+loop.run_until_complete(run_bot())
