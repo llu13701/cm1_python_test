@@ -1,6 +1,9 @@
 # Rajat's instructions
-Please add your discord bot token to line 30 of Task4.py and line 56 of Task5.py
-Please add your OpenAI key to line 7 of Task3.py and line 11 of Task5.py
+
+Collab link - https://colab.research.google.com/drive/1tewL3EnNsttzHepHTJ0ozeWElMXwaPb0?usp=sharing
+
+1. Please add your discord bot token to line 30 of Task4.py and line 56 of Task5.py
+2. Please add your OpenAI key to line 7 of Task3.py and line 11 of Task5.py
 
 
 # cm1_python_test
