@@ -3,12 +3,13 @@ Download the following libraries:
 
 pip install django discord.py openai langchain
 
-Collab link - https://colab.research.google.com/drive/1tewL3EnNsttzHepHTJ0ozeWElMXwaPb0?usp=sharing
+Colab link - https://colab.research.google.com/drive/1tewL3EnNsttzHepHTJ0ozeWElMXwaPb0?usp=sharing
 
 1. Please upload message_data.csv file to your collab runtime.
 2. Please add your discord bot token to line 30 of Task4.py and line 56 of Task5.py
 3. Please add your OpenAI key to line 7 of Task3.py and line 11 of Task5.py
 
+Read the documentation for each task in Task1_doc.html, Task2_doc.html and so on..
 
 # cm1_python_test
 For candidates interested in working for cm1
